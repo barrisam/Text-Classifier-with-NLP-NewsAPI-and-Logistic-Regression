@@ -145,12 +145,3 @@ Sports
 Politics
 Entertainment
 """
-
-
-
-
-
-
-
-
-
